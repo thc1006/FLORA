@@ -59,26 +59,6 @@ FLORA 框架經過精心設計，內建了許多為了方便研究比較的強�
 4.  `FLServer`: 模擬聯邦學習中的中央伺服器，負責模型的分發、聚合與客戶端分群。
 5.  `ExperimentRunner`: 實驗的總指揮，負責串連所有模組，執行完整的訓練與評估流程。
 
-## 安裝與設定
-
-1.  複製本專案：
-    ```bash
-    git clone [https://github.com/YOUR_USERNAME/FLORA.git](https://github.com/YOUR_USERNAME/FLORA.git)
-    cd FLORA
-    ```
-
-2.  建議使用虛擬環境 (例如 `conda` 或 `venv`)：
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-    ```
-
-3.  安裝所有必要的函式庫：
-    ```bash
-    pip install -r requirements.txt
-    ```
-    (提醒：您可能需要根據您的 CUDA 版本，手動安裝對應的 `PyTorch` 和 `Opacus`。)
-
 ## 如何執行實驗
 
 所有實驗的設定與執行都集中在 `main.ipynb` (或是 `.py` 檔案) 的最後一個區塊 (`Cell 8`)。

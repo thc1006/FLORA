@@ -6,7 +6,7 @@ FLORA: 為 O-RAN 適應性而生的聯邦學習框架 (Federated Learning for O-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/release/python-390/)
 
-**FLORA** 是一個專為學術研究與實務應用設計的開源框架，旨在探索如何利用**聯邦強化學習 (Federated Reinforcement Learning, FRL)** 的強大能力，來解決次世代 **O-RAN (開放無線接取網)** 環境中，極具挑戰性的**網路切片 (Network Slicing)** 資源管理問題。
+**FLORA** 是一個專為為 O-RAN 適應性、學術研究與實務應用設計的開源聯邦學習 python 框架，旨在探索如何利用**聯邦強化學習 (Federated Reinforcement Learning, FRL)** 的強大能力，來解決次世代 **O-RAN (開放無線接取網)** 環境中，極具挑戰性的**網路切片 (Network Slicing)** 資源管理問題。
 
 這個專案不只是一個單一的模型，而是一個功能全面、可高度客製化的**實驗平台**，讓研究者可以輕鬆比較不同聯邦學習策略的優劣，並深入探討**適應性 (Adaptation)**、**個人化 (Personalization)** 與**隱私保護 (Privacy)** 等前沿議題。
 

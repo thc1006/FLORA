@@ -1,4 +1,5 @@
-# FLORA: 為 O-RAN 適應性而生的聯邦學習框架 (Federated Learning for O-RAN Adaptation)
+#  Federated Reinforcement Learning framework for O-RAN Adaptation(FLORA)
+FLORA: 為 O-RAN 適應性而生的聯邦學習框架 (Federated Learning for O-RAN Adaptation)
 
 > FLORA: A Federated Reinforcement Learning framework for O-RAN Adaptation. Intelligently solving network slicing challenges through dynamic clustering, personalization, and privacy-preservation.
 
